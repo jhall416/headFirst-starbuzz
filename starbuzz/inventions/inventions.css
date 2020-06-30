@@ -1,0 +1,15 @@
+#idea {
+	width: 500px;
+	height:450px;
+	display: block;
+	margin: auto;
+}
+
+#brewing {
+	font-size: 30px;
+	margin-bottom: -10px;
+}
+
+#inventions {
+	text-align: center;
+}

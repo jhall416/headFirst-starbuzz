@@ -1,0 +1,9 @@
+body {
+  margin: 50px;
+  font-size: large;
+  width: 400px;
+}
+
+a:hover {
+  color: #954b4b;
+}

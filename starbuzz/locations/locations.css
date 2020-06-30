@@ -1,0 +1,41 @@
+#locations {
+	margin-left: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 35px;
+}
+
+p {
+	font-size: 18px;
+	color: #675c47;
+}
+
+table {
+	display: table;
+	padding: 30px;
+	background-color: #e1ceb8;
+	margin: 20px auto;
+	border: 10px solid #675c47;
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 10px;
+}
+
+th {
+	font-size: 22px;
+	color: #675c47;
+}
+
+.space {
+	padding: 12px 30px;
+}
+
+.color {
+	background-color: #b5a789;
+}
